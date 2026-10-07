@@ -12,7 +12,8 @@ mVCP loses its anchor, and the list jumps.
 **[`evidence/ios-demo.mp4`](evidence/ios-demo.mp4)**: 10 runs on the stock
 list, then 10 with the fix (74 s, still frames trimmed).
 
-- **Upstream issue:** _not filed yet_
+- **Upstream issue:** [react/react-native#58921](https://github.com/react/react-native/issues/58921)
+- **Upstream fix:** [react/react-native#58922](https://github.com/react/react-native/pull/58922)
 - **Found in:** the Bluesky app, which restores a feed position and then
   prepends up to 100 newer posts above the reader
 
