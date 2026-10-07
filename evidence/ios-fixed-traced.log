@@ -1,0 +1,223 @@
+[anchor] +76726ms reset, fix on
+[anchor] +78284ms reset, fix on
+[anchor] +81017ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +81310ms commit: window 100..146
+[anchor] +81344ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +81345ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +81363ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +81370ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +81371ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +81372ms   VL cellsUpdate held 100..146 (awaiting correction)
+[anchor] +81376ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +81433ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +81535ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +81557ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +81557ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +81558ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +81582ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +81599ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +81611ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +81611ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +81612ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +82567ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +82567ms round 1/10: HELD
+[anchor] +82567ms reset, fix on
+[anchor] +85286ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +85615ms commit: window 100..146
+[anchor] +85658ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +85659ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +85681ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +85698ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +85699ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +85700ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +85700ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +85803ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +85804ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +85805ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +85806ms   VL cellsUpdate held 90..146 (awaiting correction)
+[anchor] +85831ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +85883ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +85898ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +85899ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +85901ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +85915ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +86803ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +86804ms round 2/10: HELD
+[anchor] +86805ms reset, fix on
+[anchor] +89533ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +89853ms commit: window 100..146
+[anchor] +89885ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +89887ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +89906ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +89920ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +89921ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +89922ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +89922ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +90024ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +90024ms   VL cellsUpdate 90..146 -> 80..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +90101ms window 90..146 -> 80..146 (offset 21678.0)
+[anchor] +90132ms   VL layout r0 [100] y=23261.0 h=183.0 jsOffset=21678.0
+[anchor] +90132ms   VL anchor index 120 moved 21498.0 -> 25581.0, offset 21678.0: awaiting correction
+[anchor] +90133ms scroll y=25761.0 (dy=4083.0) h=29189 (dh=4083) correction
+[anchor] +90150ms   VL cellsUpdate 80..146 -> 99..146 offset=25761.0 pending=0 awaiting=false
+[anchor] +90162ms   VL layout r0 [100] y=24881.0 h=183.0 jsOffset=25761.0
+[anchor] +90162ms   VL anchor index 120 moved 25581.0 -> 27201.0, offset 25761.0: awaiting correction
+[anchor] +90165ms window 80..146 -> 99..146 (offset 25761.0)
+[anchor] +90185ms scroll y=27381.0 (dy=1620.0) h=30809 (dh=1620) correction
+[anchor] +91050ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +91050ms round 3/10: HELD
+[anchor] +91050ms reset, fix on
+[anchor] +93783ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +94095ms commit: window 100..146
+[anchor] +94162ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +94163ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +94188ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +94194ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +94195ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +94196ms   VL cellsUpdate held 100..146 (awaiting correction)
+[anchor] +94201ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +94249ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +94348ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +94349ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +94352ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +94373ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +94399ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +94414ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +94416ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +94418ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +94428ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +95350ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +95350ms round 4/10: HELD
+[anchor] +95350ms reset, fix on
+[anchor] +98087ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +98396ms commit: window 100..146
+[anchor] +98431ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +98432ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +98452ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +98459ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +98460ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +98461ms   VL cellsUpdate held 100..146 (awaiting correction)
+[anchor] +98466ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +98516ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +98610ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +98611ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +98613ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +98631ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +98666ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +98680ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +98681ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +98683ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +98693ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +99617ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +99617ms round 5/10: HELD
+[anchor] +99617ms reset, fix on
+[anchor] +102354ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +102689ms commit: window 100..146
+[anchor] +102754ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +102755ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +102775ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +102790ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +102791ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +102793ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +102793ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +102891ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +102892ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +102893ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +102893ms   VL cellsUpdate held 90..146 (awaiting correction)
+[anchor] +102914ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +102966ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +102981ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +102981ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +102983ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +102993ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +103900ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +103900ms round 6/10: HELD
+[anchor] +103901ms reset, fix on
+[anchor] +106620ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +106938ms commit: window 100..146
+[anchor] +106974ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +106975ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +106996ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +107003ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +107003ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +107004ms   VL cellsUpdate held 100..146 (awaiting correction)
+[anchor] +107009ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +107066ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +107160ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +107160ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +107164ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +107186ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +107216ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +107232ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +107246ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +107246ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +107247ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +108134ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +108134ms round 7/10: HELD
+[anchor] +108134ms reset, fix on
+[anchor] +110868ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +111178ms commit: window 100..146
+[anchor] +111212ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +111213ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +111238ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +111245ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +111246ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +111247ms   VL cellsUpdate held 100..146 (awaiting correction)
+[anchor] +111252ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +111299ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +111394ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +111394ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +111397ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +111414ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +111449ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +111464ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +111465ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +111467ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +111476ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +112400ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +112400ms round 8/10: HELD
+[anchor] +112401ms reset, fix on
+[anchor] +115133ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +115434ms commit: window 100..146
+[anchor] +115475ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +115477ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +115503ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +115510ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +115512ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +115513ms   VL cellsUpdate held 100..146 (awaiting correction)
+[anchor] +115517ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +115566ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +115662ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +115662ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +115665ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +115682ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +115716ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +115733ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +115745ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +115746ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +115746ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +116650ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +116650ms round 9/10: HELD
+[anchor] +116651ms reset, fix on
+[anchor] +119386ms prepending 100 rows (37741pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +119686ms commit: window 100..146
+[anchor] +119722ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +119723ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +119743ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +119759ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +119760ms   VL anchor index 120 moved 17479.0 -> 21498.0, offset 17659.0: awaiting correction
+[anchor] +119761ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +119761ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +119860ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +119861ms   VL anchor index 120 moved 21498.0 -> 23554.7, offset 21678.0: awaiting correction
+[anchor] +119862ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +119862ms   VL cellsUpdate held 90..146 (awaiting correction)
+[anchor] +119883ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +119949ms   VL cellsUpdate 90..146 -> 99..146 offset=23734.7 pending=0 awaiting=false
+[anchor] +119964ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=23734.7
+[anchor] +119965ms   VL anchor index 120 moved 23554.7 -> 25395.7, offset 23734.7: awaiting correction
+[anchor] +119966ms window 90..146 -> 99..146 (offset 23734.7)
+[anchor] +119976ms scroll y=25575.7 (dy=1841.0) h=29004 (dh=1841) correction
+[anchor] +120983ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 99..146 -> HELD
+[anchor] +120984ms round 10/10: HELD
+[anchor] +120984ms Repeat, fix on, 100 rows: 0/10 jumped

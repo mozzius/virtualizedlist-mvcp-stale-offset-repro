@@ -1,0 +1,13 @@
+$ jest --verbose
+PASS __tests__/anchorCorrection.test.tsx
+  ✓ stock: the window follows the stale offset and unmounts cell 20 (90 ms)
+  ✓ fixed: the window waits for the correction and keeps cell 20 (4 ms)
+
+PASS __tests__/App.test.tsx
+  ✓ renders correctly (3 ms)
+
+Test Suites: 2 passed, 2 total
+Tests:       3 passed, 3 total
+Snapshots:   0 total
+Time:        0.212 s, estimated 1 s
+Ran all test suites.

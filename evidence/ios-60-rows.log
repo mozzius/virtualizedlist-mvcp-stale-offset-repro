@@ -1,0 +1,237 @@
+[anchor] +661237ms reset, fix off
+[anchor] +662793ms reset, fix off
+[anchor] +665517ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +666095ms commit: window 60..106
+[anchor] +667052ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +667054ms settled: r20: -180.0pt -> 9951.3pt. Top row now p6 at -181.0pt. 0 corrections, window 60..106 -> JUMPED
+[anchor] +667054ms round 1/10: JUMPED
+[anchor] +667054ms reset, fix off
+[anchor] +669788ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +670121ms commit: window 60..106
+[anchor] +670221ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +670241ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +670254ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +670389ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +670407ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +670451ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +670459ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +671384ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +671384ms round 2/10: HELD
+[anchor] +671385ms reset, fix off
+[anchor] +674121ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +674449ms commit: window 60..106
+[anchor] +674505ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +674525ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +674539ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +674670ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +674688ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +674735ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +674744ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +675684ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +675684ms round 3/10: HELD
+[anchor] +675685ms reset, fix off
+[anchor] +678422ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +678746ms commit: window 60..106
+[anchor] +678812ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +678833ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +678846ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +678972ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +678991ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +679035ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +679045ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +679968ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +679968ms round 4/10: HELD
+[anchor] +679968ms reset, fix off
+[anchor] +682701ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +683013ms commit: window 60..106
+[anchor] +683059ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +683079ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +683094ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +683221ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +683242ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +683284ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +683297ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +684234ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +684234ms round 5/10: HELD
+[anchor] +684235ms reset, fix off
+[anchor] +686971ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +687298ms commit: window 60..106
+[anchor] +687348ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +687366ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +687384ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +687505ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +687523ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +687569ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +687580ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +688501ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +688501ms round 6/10: HELD
+[anchor] +688501ms reset, fix off
+[anchor] +691219ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +691531ms commit: window 60..106
+[anchor] +691576ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +691594ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +691608ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +691744ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +691769ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +691840ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +691840ms window 50..106 -> 59..106 (offset 18623.7)
+[anchor] +692767ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +692768ms round 7/10: HELD
+[anchor] +692768ms reset, fix off
+[anchor] +695508ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +695926ms commit: window 60..106
+[anchor] +696588ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +696607ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +696623ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +696755ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +696773ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +696818ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +696830ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +697618ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +697618ms round 8/10: HELD
+[anchor] +697618ms reset, fix off
+[anchor] +700354ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +700681ms commit: window 60..106
+[anchor] +700757ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +700774ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +700788ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +700921ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +700942ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +700987ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +700996ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +701968ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +701968ms round 9/10: HELD
+[anchor] +701968ms reset, fix off
+[anchor] +704701ms prepending 60 rows (22671pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +705006ms commit: window 60..106
+[anchor] +705067ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +705087ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +705102ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +705220ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +705240ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +705284ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +705296ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +706234ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +706235ms round 10/10: HELD
+[anchor] +706235ms Repeat, fix off, 60 rows: 1/10 jumped
+[anchor] +708142ms reset, fix on
+[anchor] +709696ms reset, fix on
+[anchor] +712418ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +712727ms commit: window 60..106
+[anchor] +712775ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +712796ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +712814ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +712943ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +712963ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +713018ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +713030ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +713951ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +713951ms round 1/10: HELD
+[anchor] +713952ms reset, fix on
+[anchor] +716684ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +716989ms commit: window 60..106
+[anchor] +717033ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +717057ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +717074ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +717189ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +717215ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +717250ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +717263ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +718284ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +718285ms round 2/10: HELD
+[anchor] +718285ms reset, fix on
+[anchor] +721002ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +721312ms commit: window 60..106
+[anchor] +721354ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +721374ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +721387ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +721531ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +721582ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +721604ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +721620ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +722534ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +722535ms round 3/10: HELD
+[anchor] +722535ms reset, fix on
+[anchor] +725254ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +725943ms commit: window 60..106
+[anchor] +726569ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +726587ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +726648ms window 60..106 -> 58..106 (offset 12631.3)
+[anchor] +726699ms scroll y=15135.7 (dy=2504.3) h=18564 (dh=2504) correction
+[anchor] +726717ms window 58..106 -> 59..106 (offset 15135.7)
+[anchor] +726721ms scroll y=17234.0 (dy=2098.3) h=20662 (dh=2098) correction
+[anchor] +727470ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 2 corrections, window 59..106 -> HELD
+[anchor] +727471ms round 4/10: HELD
+[anchor] +727471ms reset, fix on
+[anchor] +730188ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +730527ms commit: window 60..106
+[anchor] +730596ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +730617ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +730630ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +730755ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +730775ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +730818ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +730828ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +731751ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +731751ms round 5/10: HELD
+[anchor] +731752ms reset, fix on
+[anchor] +734488ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +734816ms commit: window 60..106
+[anchor] +734876ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +734895ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +734908ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +735039ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +735056ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +735100ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +735112ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +736035ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +736035ms round 6/10: HELD
+[anchor] +736035ms reset, fix on
+[anchor] +738768ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +739084ms commit: window 60..106
+[anchor] +739131ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +739150ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +739167ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +739287ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +739310ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +739350ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +739363ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +740318ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +740318ms round 7/10: HELD
+[anchor] +740318ms reset, fix on
+[anchor] +743055ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +743392ms commit: window 60..106
+[anchor] +743443ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +743464ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +743477ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +743608ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +743626ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +743669ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +743684ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +744634ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +744635ms round 8/10: HELD
+[anchor] +744635ms reset, fix on
+[anchor] +747370ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +747697ms commit: window 60..106
+[anchor] +747757ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +747780ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +747792ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +747922ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +747943ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +747983ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +747999ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +748918ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +748918ms round 9/10: HELD
+[anchor] +748919ms reset, fix on
+[anchor] +751654ms prepending 60 rows (22671pt) at y=2500.0, fix on, r20 at -180.0pt, window 0..46
+[anchor] +751979ms commit: window 60..106
+[anchor] +752029ms window 0..46 -> 60..106 (offset 2500.0)
+[anchor] +752048ms scroll y=12631.3 (dy=10131.3) h=16059 (dh=12367)
+[anchor] +752061ms scroll y=14864.3 (dy=2233.0) h=18292 (dh=2233) correction
+[anchor] +752185ms window 60..106 -> 50..106 (offset 14864.3)
+[anchor] +752206ms scroll y=16758.7 (dy=1894.3) h=20187 (dh=1894) correction
+[anchor] +752250ms window 50..106 -> 59..106 (offset 16758.7)
+[anchor] +752266ms scroll y=18623.7 (dy=1865.0) h=22052 (dh=1865) correction
+[anchor] +753218ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 3 corrections, window 59..106 -> HELD
+[anchor] +753218ms round 10/10: HELD
+[anchor] +753218ms Repeat, fix on, 60 rows: 0/10 jumped

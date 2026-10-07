@@ -1,0 +1,425 @@
+[anchor] +12008ms reset, fix off
+[anchor] +14736ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +15056ms commit: window 100..146
+[anchor] +15094ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +15095ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +15118ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +15144ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +15149ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +15150ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +15253ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +15254ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +15255ms   VL cellsUpdate 90..146 -> 93..130 offset=21678.0 pending=0 awaiting=false
+[anchor] +15282ms window 90..146 -> 93..130 (offset 21678.0)
+[anchor] +15301ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=21678.0
+[anchor] +15302ms scroll y=25575.7 (dy=3897.7) h=29004 (dh=3898) correction
+[anchor] +15303ms   VL cellsUpdate 93..130 -> 99..141 offset=25575.7 pending=0 awaiting=false
+[anchor] +15386ms   VL layout r0 [100] y=24916.7 h=183.0 jsOffset=25575.7
+[anchor] +15390ms   VL cellsUpdate 99..141 -> 89..141 offset=25575.7 pending=0 awaiting=false
+[anchor] +15457ms scroll y=27416.7 (dy=1841.0) h=30845 (dh=1841) correction
+[anchor] +15458ms   VL layout r0 [100] y=23950.3 h=183.0 jsOffset=27416.7
+[anchor] +15459ms window 93..130 -> 89..141 (offset 27416.7)
+[anchor] +15459ms   VL cellsUpdate 89..141 -> 106..151 offset=27416.7 pending=0 awaiting=false
+[anchor] +15525ms   VL cellsUpdate 106..151 -> 106..161 offset=27416.7 pending=0 awaiting=false
+[anchor] +15602ms scroll y=26450.3 (dy=-966.3) h=29878 (dh=-966) correction
+[anchor] +15603ms   VL cellsUpdate 106..161 -> 99..133 offset=26450.3 pending=0 awaiting=false
+[anchor] +15657ms window 89..141 -> 99..133 (offset 26450.3)
+[anchor] +15690ms   VL layout r0 [100] y=25880.7 h=183.0 jsOffset=26450.3
+[anchor] +15691ms scroll y=28380.7 (dy=1930.3) h=33686 (dh=3807)
+[anchor] +15749ms   VL cellsUpdate 99..133 -> 99..143 offset=28380.7 pending=0 awaiting=false
+[anchor] +15841ms window 99..133 -> 99..143 (offset 28380.7)
+[anchor] +15899ms   VL cellsUpdate 99..143 -> 99..147 offset=28380.7 pending=0 awaiting=false
+[anchor] +15940ms window 99..143 -> 99..147 (offset 28380.7)
+[anchor] +15999ms   VL cellsUpdate 99..147 -> 99..146 offset=28380.7 pending=0 awaiting=false
+[anchor] +16015ms window 99..147 -> 99..146 (offset 28380.7)
+[anchor] +16416ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 4 corrections, window 99..146 -> HELD
+[anchor] +16416ms round 1/10: HELD
+[anchor] +16417ms reset, fix off
+[anchor] +19150ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +19457ms commit: window 100..146
+[anchor] +19494ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +19495ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +19515ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +19523ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +19525ms   VL cellsUpdate 100..146 -> 87..96 offset=17659.0 pending=0 awaiting=false
+[anchor] +19654ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +19655ms   VL cellsUpdate 87..96 -> 120..129 offset=21678.0 pending=0 awaiting=false
+[anchor] +19759ms r20 mounted
+[anchor] +19761ms window 100..146 -> 120..129 (offset 21678.0)
+[anchor] +19761ms   VL cellsUpdate 120..129 -> 117..136 offset=21678.0 pending=0 awaiting=false
+[anchor] +19822ms scroll y=25624.0 (dy=3946.0) h=26942 (dh=1836)
+[anchor] +19824ms   VL cellsUpdate 117..136 -> 149..158 offset=25624.0 pending=0 awaiting=false
+[anchor] +19886ms scroll y=26349.0 (dy=725.0) h=26942 (dh=0)
+[anchor] +19887ms r20 UNMOUNTED
+[anchor] +19891ms   VL cellsUpdate 149..158 -> 121..130 offset=26349.0 pending=0 awaiting=false
+[anchor] +19944ms   VL cellsUpdate 121..130 -> 0..9 offset=26349.0 pending=0 awaiting=false
+[anchor] +19950ms window 120..129 -> 0..9 (offset 26349.0)
+[anchor] +19999ms   VL cellsUpdate 0..9 -> 0..19 offset=26349.0 pending=0 awaiting=false
+[anchor] +20050ms   VL cellsUpdate 0..19 -> 0..29 offset=26349.0 pending=0 awaiting=false
+[anchor] +20102ms   VL cellsUpdate 0..29 -> 0..39 offset=26349.0 pending=0 awaiting=false
+[anchor] +20156ms   VL cellsUpdate 0..39 -> 0..49 offset=26349.0 pending=0 awaiting=false
+[anchor] +20250ms scroll y=29539.0 (dy=3190.0) h=34633 (dh=7691)
+[anchor] +20250ms   VL cellsUpdate 0..49 -> 162..171 offset=29539.0 pending=0 awaiting=false
+[anchor] +20356ms scroll y=32872.0 (dy=3333.0) h=35421 (dh=788)
+[anchor] +20362ms   VL cellsUpdate 162..171 -> 180..189 offset=32872.0 pending=0 awaiting=false
+[anchor] +20469ms scroll y=30010.3 (dy=-2861.7) h=30683 (dh=-4738)
+[anchor] +20472ms   VL cellsUpdate 180..189 -> 162..171 offset=30010.3 pending=0 awaiting=false
+[anchor] +20571ms scroll y=33202.3 (dy=3192.0) h=33942 (dh=3259)
+[anchor] +20574ms   VL cellsUpdate 162..171 -> 0..189 offset=33202.3 pending=0 awaiting=false
+[anchor] +21601ms scroll y=39082.3 (dy=5880.0) h=39755 (dh=5813)
+[anchor] +21606ms   VL layout r0 [100] y=37741.0 h=183.0 jsOffset=39082.3
+[anchor] +21622ms r20 mounted
+[anchor] +21630ms   VL cellsUpdate 0..189 -> 96..138 offset=39082.3 pending=0 awaiting=false
+[anchor] +21685ms window 0..9 -> 96..138 (offset 39082.3)
+[anchor] +22016ms scroll y=46164.0 (dy=7081.7) h=49237 (dh=9482)
+[anchor] +22016ms   VL cellsUpdate 96..138 -> 167..176 offset=46164.0 pending=0 awaiting=false
+[anchor] +22112ms r20 UNMOUNTED
+[anchor] +22115ms window 96..138 -> 167..176 (offset 46164.0)
+[anchor] +22165ms   VL cellsUpdate 167..176 -> 162..181 offset=46164.0 pending=0 awaiting=false
+[anchor] +22316ms   VL cellsUpdate 162..181 -> 157..186 offset=46164.0 pending=0 awaiting=false
+[anchor] +22466ms   VL cellsUpdate 157..186 -> 152..191 offset=46164.0 pending=0 awaiting=false
+[anchor] +22616ms   VL cellsUpdate 152..191 -> 145..192 offset=46164.0 pending=0 awaiting=false
+[anchor] +22800ms settled: r20: -180.0pt -> not rendered. Top row now r67 at -2.0pt. 1 corrections, window 145..192 -> JUMPED
+[anchor] +22800ms round 2/10: JUMPED
+[anchor] +22800ms reset, fix off
+[anchor] +25535ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +25834ms commit: window 100..146
+[anchor] +25867ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +25868ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +25888ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +25905ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +25906ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +25907ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +26004ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +26005ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +26005ms   VL cellsUpdate 90..146 -> 93..130 offset=21678.0 pending=0 awaiting=false
+[anchor] +26032ms window 90..146 -> 93..130 (offset 21678.0)
+[anchor] +26047ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=21678.0
+[anchor] +26048ms scroll y=25575.7 (dy=3897.7) h=29004 (dh=3898) correction
+[anchor] +26048ms   VL cellsUpdate 93..130 -> 99..141 offset=25575.7 pending=0 awaiting=false
+[anchor] +26124ms   VL layout r0 [100] y=24916.7 h=183.0 jsOffset=25575.7
+[anchor] +26127ms   VL cellsUpdate 99..141 -> 89..141 offset=25575.7 pending=0 awaiting=false
+[anchor] +26186ms scroll y=27416.7 (dy=1841.0) h=30845 (dh=1841) correction
+[anchor] +26186ms   VL layout r0 [100] y=23950.3 h=183.0 jsOffset=27416.7
+[anchor] +26187ms window 93..130 -> 89..141 (offset 27416.7)
+[anchor] +26188ms   VL cellsUpdate 89..141 -> 106..151 offset=27416.7 pending=0 awaiting=false
+[anchor] +26251ms   VL cellsUpdate 106..151 -> 106..161 offset=27416.7 pending=0 awaiting=false
+[anchor] +26311ms scroll y=26450.3 (dy=-966.3) h=29878 (dh=-966) correction
+[anchor] +26314ms   VL cellsUpdate 106..161 -> 99..133 offset=26450.3 pending=0 awaiting=false
+[anchor] +26389ms scroll y=28248.3 (dy=1798.0) h=33553 (dh=3675)
+[anchor] +26390ms   VL layout r0 [100] y=25880.7 h=183.0 jsOffset=28248.3
+[anchor] +26391ms window 89..141 -> 99..133 (offset 28248.3)
+[anchor] +26391ms   VL cellsUpdate 99..133 -> 99..143 offset=28248.3 pending=0 awaiting=false
+[anchor] +26452ms scroll y=28380.7 (dy=132.3) h=33686 (dh=132) correction
+[anchor] +26455ms window 99..133 -> 99..143 (offset 28380.7)
+[anchor] +26499ms   VL cellsUpdate 99..143 -> 99..147 offset=28380.7 pending=0 awaiting=false
+[anchor] +26524ms window 99..143 -> 99..147 (offset 28380.7)
+[anchor] +26582ms   VL cellsUpdate 99..147 -> 99..146 offset=28380.7 pending=0 awaiting=false
+[anchor] +26599ms window 99..147 -> 99..146 (offset 28380.7)
+[anchor] +27183ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 5 corrections, window 99..146 -> HELD
+[anchor] +27183ms round 3/10: HELD
+[anchor] +27183ms reset, fix off
+[anchor] +29920ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +30242ms commit: window 100..146
+[anchor] +30277ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +30279ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +30305ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +30312ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +30313ms   VL cellsUpdate 100..146 -> 87..96 offset=17659.0 pending=0 awaiting=false
+[anchor] +30436ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +30437ms   VL cellsUpdate 87..96 -> 120..129 offset=21678.0 pending=0 awaiting=false
+[anchor] +30517ms r20 mounted
+[anchor] +30518ms window 100..146 -> 120..129 (offset 21678.0)
+[anchor] +30519ms   VL cellsUpdate 120..129 -> 117..136 offset=21678.0 pending=0 awaiting=false
+[anchor] +30577ms scroll y=25624.0 (dy=3946.0) h=26942 (dh=1836)
+[anchor] +30579ms   VL cellsUpdate 117..136 -> 149..158 offset=25624.0 pending=0 awaiting=false
+[anchor] +30647ms scroll y=26349.0 (dy=725.0) h=26942 (dh=0)
+[anchor] +30648ms r20 UNMOUNTED
+[anchor] +30652ms   VL cellsUpdate 149..158 -> 121..130 offset=26349.0 pending=0 awaiting=false
+[anchor] +30709ms   VL cellsUpdate 121..130 -> 0..9 offset=26349.0 pending=0 awaiting=false
+[anchor] +30715ms window 120..129 -> 0..9 (offset 26349.0)
+[anchor] +30766ms   VL cellsUpdate 0..9 -> 0..19 offset=26349.0 pending=0 awaiting=false
+[anchor] +30818ms   VL cellsUpdate 0..19 -> 0..29 offset=26349.0 pending=0 awaiting=false
+[anchor] +30869ms   VL cellsUpdate 0..29 -> 0..39 offset=26349.0 pending=0 awaiting=false
+[anchor] +30923ms   VL cellsUpdate 0..39 -> 0..49 offset=26349.0 pending=0 awaiting=false
+[anchor] +31012ms scroll y=29539.0 (dy=3190.0) h=34633 (dh=7691)
+[anchor] +31013ms   VL cellsUpdate 0..49 -> 162..171 offset=29539.0 pending=0 awaiting=false
+[anchor] +31128ms scroll y=32872.0 (dy=3333.0) h=35421 (dh=788)
+[anchor] +31134ms   VL cellsUpdate 162..171 -> 180..189 offset=32872.0 pending=0 awaiting=false
+[anchor] +31219ms scroll y=30010.3 (dy=-2861.7) h=30683 (dh=-4738)
+[anchor] +31223ms   VL cellsUpdate 180..189 -> 162..171 offset=30010.3 pending=0 awaiting=false
+[anchor] +31316ms scroll y=33202.3 (dy=3192.0) h=33942 (dh=3259)
+[anchor] +31319ms   VL cellsUpdate 162..171 -> 0..189 offset=33202.3 pending=0 awaiting=false
+[anchor] +32306ms scroll y=39082.3 (dy=5880.0) h=39755 (dh=5813)
+[anchor] +32308ms   VL layout r0 [100] y=37741.0 h=183.0 jsOffset=39082.3
+[anchor] +32324ms r20 mounted
+[anchor] +32332ms   VL cellsUpdate 0..189 -> 96..138 offset=39082.3 pending=0 awaiting=false
+[anchor] +32387ms window 0..9 -> 96..138 (offset 39082.3)
+[anchor] +32722ms scroll y=46164.0 (dy=7081.7) h=49237 (dh=9482)
+[anchor] +32722ms   VL cellsUpdate 96..138 -> 167..176 offset=46164.0 pending=0 awaiting=false
+[anchor] +32816ms r20 UNMOUNTED
+[anchor] +32820ms window 96..138 -> 167..176 (offset 46164.0)
+[anchor] +32865ms   VL cellsUpdate 167..176 -> 162..181 offset=46164.0 pending=0 awaiting=false
+[anchor] +33016ms   VL cellsUpdate 162..181 -> 157..186 offset=46164.0 pending=0 awaiting=false
+[anchor] +33166ms   VL cellsUpdate 157..186 -> 152..191 offset=46164.0 pending=0 awaiting=false
+[anchor] +33316ms   VL cellsUpdate 152..191 -> 145..192 offset=46164.0 pending=0 awaiting=false
+[anchor] +33500ms settled: r20: -180.0pt -> not rendered. Top row now r67 at -2.0pt. 1 corrections, window 145..192 -> JUMPED
+[anchor] +33500ms round 4/10: JUMPED
+[anchor] +33501ms reset, fix off
+[anchor] +36222ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +36530ms commit: window 100..146
+[anchor] +36564ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +36565ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +36590ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +36597ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +36598ms   VL cellsUpdate 100..146 -> 87..96 offset=17659.0 pending=0 awaiting=false
+[anchor] +36719ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +36720ms   VL cellsUpdate 87..96 -> 120..129 offset=21678.0 pending=0 awaiting=false
+[anchor] +36796ms r20 mounted
+[anchor] +36798ms window 100..146 -> 120..129 (offset 21678.0)
+[anchor] +36798ms   VL cellsUpdate 120..129 -> 117..136 offset=21678.0 pending=0 awaiting=false
+[anchor] +36856ms scroll y=25624.0 (dy=3946.0) h=26942 (dh=1836)
+[anchor] +36859ms   VL cellsUpdate 117..136 -> 149..158 offset=25624.0 pending=0 awaiting=false
+[anchor] +36933ms scroll y=26349.0 (dy=725.0) h=26942 (dh=0)
+[anchor] +36934ms r20 UNMOUNTED
+[anchor] +36938ms   VL cellsUpdate 149..158 -> 121..130 offset=26349.0 pending=0 awaiting=false
+[anchor] +36994ms   VL cellsUpdate 121..130 -> 0..9 offset=26349.0 pending=0 awaiting=false
+[anchor] +37000ms window 120..129 -> 0..9 (offset 26349.0)
+[anchor] +37049ms   VL cellsUpdate 0..9 -> 0..19 offset=26349.0 pending=0 awaiting=false
+[anchor] +37101ms   VL cellsUpdate 0..19 -> 0..29 offset=26349.0 pending=0 awaiting=false
+[anchor] +37153ms   VL cellsUpdate 0..29 -> 0..39 offset=26349.0 pending=0 awaiting=false
+[anchor] +37208ms   VL cellsUpdate 0..39 -> 0..49 offset=26349.0 pending=0 awaiting=false
+[anchor] +37268ms scroll y=29539.0 (dy=3190.0) h=34633 (dh=7691)
+[anchor] +37269ms   VL cellsUpdate 0..49 -> 162..171 offset=29539.0 pending=0 awaiting=false
+[anchor] +37377ms scroll y=32872.0 (dy=3333.0) h=35421 (dh=788)
+[anchor] +37383ms   VL cellsUpdate 162..171 -> 180..189 offset=32872.0 pending=0 awaiting=false
+[anchor] +37474ms scroll y=30010.3 (dy=-2861.7) h=30683 (dh=-4738)
+[anchor] +37477ms   VL cellsUpdate 180..189 -> 162..171 offset=30010.3 pending=0 awaiting=false
+[anchor] +37570ms scroll y=33202.3 (dy=3192.0) h=33942 (dh=3259)
+[anchor] +37573ms   VL cellsUpdate 162..171 -> 0..189 offset=33202.3 pending=0 awaiting=false
+[anchor] +38618ms scroll y=39082.3 (dy=5880.0) h=39755 (dh=5813)
+[anchor] +38620ms   VL layout r0 [100] y=37741.0 h=183.0 jsOffset=39082.3
+[anchor] +38637ms r20 mounted
+[anchor] +38645ms   VL cellsUpdate 0..189 -> 96..138 offset=39082.3 pending=0 awaiting=false
+[anchor] +38700ms window 0..9 -> 96..138 (offset 39082.3)
+[anchor] +39041ms scroll y=46164.0 (dy=7081.7) h=49237 (dh=9482)
+[anchor] +39041ms   VL cellsUpdate 96..138 -> 167..176 offset=46164.0 pending=0 awaiting=false
+[anchor] +39138ms r20 UNMOUNTED
+[anchor] +39141ms window 96..138 -> 167..176 (offset 46164.0)
+[anchor] +39182ms   VL cellsUpdate 167..176 -> 162..181 offset=46164.0 pending=0 awaiting=false
+[anchor] +39332ms   VL cellsUpdate 162..181 -> 157..186 offset=46164.0 pending=0 awaiting=false
+[anchor] +39482ms   VL cellsUpdate 157..186 -> 152..191 offset=46164.0 pending=0 awaiting=false
+[anchor] +39632ms   VL cellsUpdate 152..191 -> 145..192 offset=46164.0 pending=0 awaiting=false
+[anchor] +39816ms settled: r20: -180.0pt -> not rendered. Top row now r67 at -2.0pt. 1 corrections, window 145..192 -> JUMPED
+[anchor] +39816ms round 5/10: JUMPED
+[anchor] +39817ms reset, fix off
+[anchor] +42553ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +42858ms commit: window 100..146
+[anchor] +42892ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +42893ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +42913ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +42929ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +42930ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +42931ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +43027ms   VL layout r0 [100] y=21234.7 h=183.0 jsOffset=21678.0
+[anchor] +43028ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +43028ms   VL cellsUpdate 90..146 -> 93..130 offset=21678.0 pending=0 awaiting=false
+[anchor] +43049ms window 90..146 -> 93..130 (offset 21678.0)
+[anchor] +43065ms   VL layout r0 [100] y=23075.7 h=183.0 jsOffset=21678.0
+[anchor] +43066ms scroll y=25575.7 (dy=3897.7) h=29004 (dh=3898) correction
+[anchor] +43066ms   VL cellsUpdate 93..130 -> 99..141 offset=25575.7 pending=0 awaiting=false
+[anchor] +43151ms   VL layout r0 [100] y=24916.7 h=183.0 jsOffset=25575.7
+[anchor] +43155ms   VL cellsUpdate 99..141 -> 89..141 offset=25575.7 pending=0 awaiting=false
+[anchor] +43213ms scroll y=27416.7 (dy=1841.0) h=30845 (dh=1841) correction
+[anchor] +43213ms   VL layout r0 [100] y=23950.3 h=183.0 jsOffset=27416.7
+[anchor] +43214ms window 93..130 -> 89..141 (offset 27416.7)
+[anchor] +43214ms   VL cellsUpdate 89..141 -> 106..151 offset=27416.7 pending=0 awaiting=false
+[anchor] +43279ms   VL cellsUpdate 106..151 -> 106..161 offset=27416.7 pending=0 awaiting=false
+[anchor] +43350ms scroll y=26450.3 (dy=-966.3) h=29878 (dh=-966) correction
+[anchor] +43352ms   VL cellsUpdate 106..161 -> 99..133 offset=26450.3 pending=0 awaiting=false
+[anchor] +43419ms scroll y=28248.3 (dy=1798.0) h=33553 (dh=3675)
+[anchor] +43420ms   VL layout r0 [100] y=25880.7 h=183.0 jsOffset=28248.3
+[anchor] +43421ms window 89..141 -> 99..133 (offset 28248.3)
+[anchor] +43421ms   VL cellsUpdate 99..133 -> 99..143 offset=28248.3 pending=0 awaiting=false
+[anchor] +43482ms scroll y=28380.7 (dy=132.3) h=33686 (dh=132) correction
+[anchor] +43484ms window 99..133 -> 99..143 (offset 28380.7)
+[anchor] +43532ms   VL cellsUpdate 99..143 -> 99..147 offset=28380.7 pending=0 awaiting=false
+[anchor] +43558ms window 99..143 -> 99..147 (offset 28380.7)
+[anchor] +43616ms   VL cellsUpdate 99..147 -> 99..146 offset=28380.7 pending=0 awaiting=false
+[anchor] +43632ms window 99..147 -> 99..146 (offset 28380.7)
+[anchor] +44200ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 5 corrections, window 99..146 -> HELD
+[anchor] +44200ms round 6/10: HELD
+[anchor] +44200ms reset, fix off
+[anchor] +46920ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +47234ms commit: window 100..146
+[anchor] +47286ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +47287ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +47307ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +47315ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +47316ms   VL cellsUpdate 100..146 -> 87..96 offset=17659.0 pending=0 awaiting=false
+[anchor] +47438ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +47438ms   VL cellsUpdate 87..96 -> 120..129 offset=21678.0 pending=0 awaiting=false
+[anchor] +47519ms r20 mounted
+[anchor] +47520ms   VL cellsUpdate 120..129 -> 91..100 offset=21678.0 pending=0 awaiting=false
+[anchor] +47574ms r20 UNMOUNTED
+[anchor] +47583ms scroll y=25624.0 (dy=3946.0) h=26942 (dh=1836)
+[anchor] +47584ms   VL layout r0 [100] y=23816.3 h=183.0 jsOffset=25624.0
+[anchor] +47584ms   VL cellsUpdate 91..100 -> 149..158 offset=25624.0 pending=0 awaiting=false
+[anchor] +47645ms scroll y=24917.7 (dy=-706.3) h=29744 (dh=2803)
+[anchor] +47648ms   VL cellsUpdate 149..158 -> 139..156 offset=24917.7 pending=0 awaiting=false
+[anchor] +47705ms scroll y=29473.7 (dy=4556.0) h=28555 (dh=-1189)
+[anchor] +47708ms   VL cellsUpdate 139..156 -> 163..172 offset=29473.7 pending=0 awaiting=false
+[anchor] +47771ms scroll y=26236.0 (dy=-3237.7) h=28509 (dh=-47)
+[anchor] +47775ms   VL cellsUpdate 163..172 -> 137..146 offset=26236.0 pending=0 awaiting=false
+[anchor] +47830ms   VL cellsUpdate 137..146 -> 131..150 offset=26236.0 pending=0 awaiting=false
+[anchor] +47884ms window 100..146 -> 131..150 (offset 26236.0)
+[anchor] +47884ms   VL cellsUpdate 131..150 -> 127..156 offset=26236.0 pending=0 awaiting=false
+[anchor] +47940ms   VL cellsUpdate 127..156 -> 121..151 offset=26236.0 pending=0 awaiting=false
+[anchor] +48007ms scroll y=28071.7 (dy=1835.7) h=34327 (dh=5818)
+[anchor] +48008ms window 131..150 -> 121..151 (offset 28071.7)
+[anchor] +48008ms   VL cellsUpdate 121..151 -> 121..161 offset=28071.7 pending=0 awaiting=false
+[anchor] +48098ms window 121..151 -> 121..161 (offset 28071.7)
+[anchor] +48149ms   VL cellsUpdate 121..161 -> 114..164 offset=28071.7 pending=0 awaiting=false
+[anchor] +48246ms r20 mounted
+[anchor] +48247ms   VL cellsUpdate 114..164 -> 134..174 offset=28071.7 pending=0 awaiting=false
+[anchor] +48347ms r20 UNMOUNTED
+[anchor] +48361ms scroll y=26262.3 (dy=-1809.3) h=30364 (dh=-3962)
+[anchor] +48362ms   VL cellsUpdate 134..174 -> 120..129 offset=26262.3 pending=0 awaiting=false
+[anchor] +48462ms r20 mounted
+[anchor] +48478ms scroll y=28225.0 (dy=1962.7) h=32556 (dh=2192)
+[anchor] +48479ms   VL cellsUpdate 120..129 -> 141..150 offset=28225.0 pending=0 awaiting=false
+[anchor] +48567ms r20 UNMOUNTED
+[anchor] +48569ms window 121..161 -> 141..150 (offset 28225.0)
+[anchor] +48570ms   VL cellsUpdate 141..150 -> 137..156 offset=28225.0 pending=0 awaiting=false
+[anchor] +48680ms scroll y=32985.7 (dy=4760.7) h=34534 (dh=1978)
+[anchor] +48682ms   VL cellsUpdate 137..156 -> 177..186 offset=32985.7 pending=0 awaiting=false
+[anchor] +48758ms scroll y=33616.7 (dy=631.0) h=34534 (dh=0)
+[anchor] +48763ms   VL cellsUpdate 177..186 -> 146..155 offset=33616.7 pending=0 awaiting=false
+[anchor] +48819ms   VL cellsUpdate 146..155 -> 146..165 offset=33616.7 pending=0 awaiting=false
+[anchor] +48872ms   VL cellsUpdate 146..165 -> 146..175 offset=33616.7 pending=0 awaiting=false
+[anchor] +48926ms   VL cellsUpdate 146..175 -> 136..175 offset=33616.7 pending=0 awaiting=false
+[anchor] +48982ms window 141..150 -> 136..175 (offset 33616.7)
+[anchor] +48983ms   VL cellsUpdate 136..175 -> 132..181 offset=33616.7 pending=0 awaiting=false
+[anchor] +49084ms scroll y=31646.7 (dy=-1970.0) h=38967 (dh=4434)
+[anchor] +49086ms window 136..175 -> 132..181 (offset 31646.7)
+[anchor] +49100ms scroll y=29684.0 (dy=-1962.7) h=34309 (dh=-4658)
+[anchor] +49132ms   VL cellsUpdate 132..181 -> 122..177 offset=29684.0 pending=0 awaiting=false
+[anchor] +49230ms window 132..181 -> 122..177 (offset 29684.0)
+[anchor] +49248ms scroll y=31664.0 (dy=1980.0) h=38324 (dh=4015)
+[anchor] +49282ms   VL cellsUpdate 122..177 -> 131..187 offset=31664.0 pending=0 awaiting=false
+[anchor] +49381ms window 122..177 -> 131..187 (offset 31664.0)
+[anchor] +49402ms scroll y=33692.0 (dy=2028.0) h=38436 (dh=112)
+[anchor] +49432ms   VL cellsUpdate 131..187 -> 131..177 offset=33692.0 pending=0 awaiting=false
+[anchor] +49449ms window 131..187 -> 131..177 (offset 33692.0)
+[anchor] +49458ms scroll y=33697.7 (dy=5.7) h=38442 (dh=6)
+[anchor] +50270ms settled: r20: -180.0pt -> not rendered. Top row now r51 at -29.0pt. 1 corrections, window 131..177 -> JUMPED
+[anchor] +50271ms round 7/10: JUMPED
+[anchor] +50272ms reset, fix off
+[anchor] +53000ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +53293ms commit: window 100..146
+[anchor] +53358ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +53359ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +53380ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +53393ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +53395ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +53395ms   VL cellsUpdate 100..146 -> 90..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +53498ms window 100..146 -> 90..146 (offset 21678.0)
+[anchor] +53498ms   VL cellsUpdate 90..146 -> 80..146 offset=21678.0 pending=0 awaiting=false
+[anchor] +53585ms   VL layout r0 [100] y=23261.0 h=183.0 jsOffset=21678.0
+[anchor] +53587ms scroll y=23734.7 (dy=2056.7) h=27163 (dh=2057) correction
+[anchor] +53589ms window 90..146 -> 80..146 (offset 23734.7)
+[anchor] +53600ms scroll y=25761.0 (dy=2026.3) h=29189 (dh=2026) correction
+[anchor] +53632ms   VL cellsUpdate 80..146 -> 99..146 offset=25761.0 pending=0 awaiting=false
+[anchor] +53644ms   VL layout r0 [100] y=24881.0 h=183.0 jsOffset=25761.0
+[anchor] +53649ms window 80..146 -> 99..146 (offset 25761.0)
+[anchor] +53664ms scroll y=27381.0 (dy=1620.0) h=30809 (dh=1620) correction
+[anchor] +54533ms settled: r20: -180.0pt -> -180.0pt. Top row now r20 at -180.0pt. 4 corrections, window 99..146 -> HELD
+[anchor] +54533ms round 8/10: HELD
+[anchor] +54534ms reset, fix off
+[anchor] +57266ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +57564ms commit: window 100..146
+[anchor] +57597ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +57598ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +57619ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +57625ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +57627ms   VL cellsUpdate 100..146 -> 87..96 offset=17659.0 pending=0 awaiting=false
+[anchor] +57750ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +57750ms   VL cellsUpdate 87..96 -> 120..129 offset=21678.0 pending=0 awaiting=false
+[anchor] +57872ms r20 mounted
+[anchor] +57874ms window 100..146 -> 120..129 (offset 21678.0)
+[anchor] +57874ms   VL cellsUpdate 120..129 -> 117..136 offset=21678.0 pending=0 awaiting=false
+[anchor] +57931ms scroll y=25624.0 (dy=3946.0) h=26942 (dh=1836)
+[anchor] +57933ms   VL cellsUpdate 117..136 -> 149..158 offset=25624.0 pending=0 awaiting=false
+[anchor] +57995ms scroll y=26349.0 (dy=725.0) h=26942 (dh=0)
+[anchor] +57996ms r20 UNMOUNTED
+[anchor] +58000ms   VL cellsUpdate 149..158 -> 121..130 offset=26349.0 pending=0 awaiting=false
+[anchor] +58057ms   VL cellsUpdate 121..130 -> 0..9 offset=26349.0 pending=0 awaiting=false
+[anchor] +58064ms window 120..129 -> 0..9 (offset 26349.0)
+[anchor] +58116ms   VL cellsUpdate 0..9 -> 0..19 offset=26349.0 pending=0 awaiting=false
+[anchor] +58169ms   VL cellsUpdate 0..19 -> 0..29 offset=26349.0 pending=0 awaiting=false
+[anchor] +58222ms   VL cellsUpdate 0..29 -> 0..39 offset=26349.0 pending=0 awaiting=false
+[anchor] +58276ms   VL cellsUpdate 0..39 -> 0..49 offset=26349.0 pending=0 awaiting=false
+[anchor] +58371ms scroll y=29539.0 (dy=3190.0) h=34633 (dh=7691)
+[anchor] +58372ms   VL cellsUpdate 0..49 -> 162..171 offset=29539.0 pending=0 awaiting=false
+[anchor] +58479ms scroll y=32872.0 (dy=3333.0) h=35421 (dh=788)
+[anchor] +58485ms   VL cellsUpdate 162..171 -> 180..189 offset=32872.0 pending=0 awaiting=false
+[anchor] +58579ms scroll y=30010.3 (dy=-2861.7) h=30683 (dh=-4738)
+[anchor] +58583ms   VL cellsUpdate 180..189 -> 162..171 offset=30010.3 pending=0 awaiting=false
+[anchor] +58677ms scroll y=33202.3 (dy=3192.0) h=33942 (dh=3259)
+[anchor] +58681ms   VL cellsUpdate 162..171 -> 0..189 offset=33202.3 pending=0 awaiting=false
+[anchor] +59683ms scroll y=39082.3 (dy=5880.0) h=39755 (dh=5813)
+[anchor] +59686ms   VL layout r0 [100] y=37741.0 h=183.0 jsOffset=39082.3
+[anchor] +59702ms r20 mounted
+[anchor] +59711ms   VL cellsUpdate 0..189 -> 96..138 offset=39082.3 pending=0 awaiting=false
+[anchor] +59767ms window 0..9 -> 96..138 (offset 39082.3)
+[anchor] +60115ms scroll y=46164.0 (dy=7081.7) h=49237 (dh=9482)
+[anchor] +60116ms   VL cellsUpdate 96..138 -> 167..176 offset=46164.0 pending=0 awaiting=false
+[anchor] +60216ms r20 UNMOUNTED
+[anchor] +60219ms window 96..138 -> 167..176 (offset 46164.0)
+[anchor] +60266ms   VL cellsUpdate 167..176 -> 162..181 offset=46164.0 pending=0 awaiting=false
+[anchor] +60416ms   VL cellsUpdate 162..181 -> 157..186 offset=46164.0 pending=0 awaiting=false
+[anchor] +60566ms   VL cellsUpdate 157..186 -> 152..191 offset=46164.0 pending=0 awaiting=false
+[anchor] +60716ms   VL cellsUpdate 152..191 -> 145..192 offset=46164.0 pending=0 awaiting=false
+[anchor] +60916ms settled: r20: -180.0pt -> not rendered. Top row now r67 at -2.0pt. 1 corrections, window 145..192 -> JUMPED
+[anchor] +60917ms round 9/10: JUMPED
+[anchor] +60917ms reset, fix off
+[anchor] +63654ms prepending 100 rows (37741pt) at y=2500.0, fix off, r20 at -180.0pt, window 0..46
+[anchor] +63961ms commit: window 100..146
+[anchor] +64024ms   VL layout r0 [100] y=15159.0 h=183.0 jsOffset=2500.0
+[anchor] +64025ms window 0..46 -> 100..146 (offset 2500.0)
+[anchor] +64041ms scroll y=17659.0 (dy=15159.0) h=21087 (dh=17395)
+[anchor] +64048ms   VL layout r0 [100] y=19178.0 h=183.0 jsOffset=17659.0
+[anchor] +64050ms   VL cellsUpdate 100..146 -> 87..96 offset=17659.0 pending=0 awaiting=false
+[anchor] +64165ms scroll y=21678.0 (dy=4019.0) h=25106 (dh=4019) correction
+[anchor] +64166ms   VL cellsUpdate 87..96 -> 120..129 offset=21678.0 pending=0 awaiting=false
+[anchor] +64244ms r20 mounted
+[anchor] +64246ms window 100..146 -> 120..129 (offset 21678.0)
+[anchor] +64246ms   VL cellsUpdate 120..129 -> 117..136 offset=21678.0 pending=0 awaiting=false
+[anchor] +64304ms scroll y=25624.0 (dy=3946.0) h=26942 (dh=1836)
+[anchor] +64306ms   VL cellsUpdate 117..136 -> 149..158 offset=25624.0 pending=0 awaiting=false
+[anchor] +64371ms scroll y=26349.0 (dy=725.0) h=26942 (dh=0)
+[anchor] +64372ms r20 UNMOUNTED
+[anchor] +64376ms   VL cellsUpdate 149..158 -> 121..130 offset=26349.0 pending=0 awaiting=false
+[anchor] +64432ms   VL cellsUpdate 121..130 -> 0..9 offset=26349.0 pending=0 awaiting=false
+[anchor] +64439ms window 120..129 -> 0..9 (offset 26349.0)
+[anchor] +64482ms   VL cellsUpdate 0..9 -> 0..19 offset=26349.0 pending=0 awaiting=false
+[anchor] +64534ms   VL cellsUpdate 0..19 -> 0..29 offset=26349.0 pending=0 awaiting=false
+[anchor] +64585ms   VL cellsUpdate 0..29 -> 0..39 offset=26349.0 pending=0 awaiting=false
+[anchor] +64639ms   VL cellsUpdate 0..39 -> 0..49 offset=26349.0 pending=0 awaiting=false
+[anchor] +64692ms window 0..9 -> 0..49 (offset 26349.0)
+[anchor] +64693ms   VL cellsUpdate 0..49 -> 0..59 offset=26349.0 pending=0 awaiting=false
+[anchor] +64780ms   VL cellsUpdate 0..59 -> 0..69 offset=26349.0 pending=0 awaiting=false
+[anchor] +64880ms scroll y=32872.0 (dy=6523.0) h=35421 (dh=8479)
+[anchor] +64881ms   VL cellsUpdate 0..69 -> 174..183 offset=32872.0 pending=0 awaiting=false
+[anchor] +64988ms scroll y=39641.0 (dy=6769.0) h=37632 (dh=2211)
+[anchor] +64989ms   VL cellsUpdate 174..183 -> 205..214 offset=39641.0 pending=0 awaiting=false
+[anchor] +65081ms scroll y=33378.0 (dy=-6263.0) h=34051 (dh=-3581)
+[anchor] +65084ms   VL cellsUpdate 205..214 -> 0..9 offset=33378.0 pending=0 awaiting=false
+[anchor] +65089ms window 0..49 -> 0..9 (offset 33378.0)
+[anchor] +65100ms scroll y=40058.7 (dy=6680.7) h=40787 (dh=6736)
+[anchor] +65101ms   VL cellsUpdate 0..9 -> 0..161 offset=40058.7 pending=0 awaiting=false
+[anchor] +66056ms r20 mounted
+[anchor] +66061ms window 0..9 -> 0..161 (offset 40058.7)
+[anchor] +66064ms settled: r20: -180.0pt -> 2.3pt. Top row now r19 at -111.7pt. 1 corrections, window 0..161 -> JUMPED
+[anchor] +66065ms round 10/10: JUMPED
+[anchor] +66065ms Repeat, fix off, 100 rows: 6/10 jumped
